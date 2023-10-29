@@ -1,6 +1,6 @@
 # Классификация отзывов пользователей по токсичности
 
-<a href="https://github.com/letoatreides2/Portfolio/blob/main/Review%20classification/Review%20classification.ipynb">ipynb</a>
+<a href = https://github.com/letoatreides2/Portfolio/blob/master/Review%20classification/Review%20classification.ipynb>ipynb</a>
 
 ## Описание проекта
 
