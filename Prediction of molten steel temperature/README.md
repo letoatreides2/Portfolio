@@ -1,6 +1,6 @@
 # Предсказание температуры расплавленной стали
 
-<a href="https://github.com/letoatreides2/Portfolio/blob/main/Prediction%20of%20molten%20steel%20temperature/Prediction%20of%20molten%20steel%20temperature.ipynb">ipynb</a>
+<a href = https://github.com/letoatreides2/Portfolio/blob/master/Prediction%20of%20molten%20steel%20temperature/Prediction%20of%20molten%20steel%20temperature.ipynb>ipynb</a>
 
 ## Описание проекта
 
