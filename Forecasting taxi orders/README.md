@@ -1,6 +1,6 @@
 # Прогнозирование количества заказов такси
 
-<a href="https://github.com/letoatreides2/Portfolio/blob/main/Forecasting%20taxi%20orders/Forecasting%20taxi%20orders.ipynb">ipynb</a>
+<a href = https://github.com/letoatreides2/Portfolio/blob/master/Forecasting%20taxi%20orders/Forecasting%20taxi%20orders.ipynb>ipynb</a>
 
 ## Описание проекта
 
